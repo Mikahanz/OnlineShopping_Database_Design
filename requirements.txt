@@ -1,0 +1,21 @@
+Identifying the entities	10%
+Identifying the attributes	5%
+Constraints	5%
+Relations	10%
+First Normal form	5%
+Second Normal Form	5%
+Third Normal Form	5%
+
+Test Query to:	
+All a new item as a seller	5%
+Query for total number of sold item in past month	5%
+Query for total income in CAD	5%
+
+Add number of item to shopping cart	5%
+Set the shipping address	5%
+Set the payment method	5%
+Triggers	5%
+Views	5%
+Clear schema	5%
+Having five sample data in each table	5%
+Cleat test demo	5%
